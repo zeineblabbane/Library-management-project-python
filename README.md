@@ -18,6 +18,3 @@ A library management system keeps track of the books present in the library. It 
 -  **IssueBook.py** – To Issue a book from library
 -  **ReturnBook.py** – To Return a book to the library
 
-## Software Testing
-#### Unit Testing :
-#### Integration Testing :
